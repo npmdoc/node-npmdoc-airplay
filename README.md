@@ -1,6 +1,6 @@
 # npmdoc-airplay
 
-#### api documentation for  airplay (v0.0.3)  [![npm package](https://img.shields.io/npm/v/npmdoc-airplay.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-airplay) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-airplay.svg)](https://travis-ci.org/npmdoc/node-npmdoc-airplay)
+#### basic api documentation for  airplay (v0.0.3)  [![npm package](https://img.shields.io/npm/v/npmdoc-airplay.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-airplay) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-airplay.svg)](https://travis-ci.org/npmdoc/node-npmdoc-airplay)
 
 #### Apple AirPlay client library
 
